@@ -60,11 +60,3 @@ python app.py
 ```json
 {"status": "ok", "service": "ai-quiz-generator"}
 ```
-
-## Groq Models
-
-| Model | Context | Speed |
-|-------|---------|-------|
-| `llama3-70b-8192` | 8192 tokens | Fast (recommended) |
-| `llama3-8b-8192` | 8192 tokens | Fastest |
-| `mixtral-8x7b-32768` | 32768 tokens | Large docs |
